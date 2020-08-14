@@ -14,8 +14,11 @@ The folder Structure-
 
 Under the src/main/java
 com.endclothing.automation.base - Contains BrowserBase.java, TestBase.java
+
 com.endclothing.automation.config - Contains environment.properties file. 
+
 com.endclothing.automation.listeners - Contains ExtentListener.java.
+
 com.endclothing.automation.pages - Page Object Model java classes
 
 
