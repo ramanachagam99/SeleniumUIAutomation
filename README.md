@@ -4,7 +4,8 @@ This Selenium UI Automation project is based on Java and Selenium using open sou
 You can run the project either in Eclipse or any other IDE or run it as a maven commandline project.
 JRE System Library[JavaSE-9] used in this project. pom.xml is configured with required dependencies. Chrome or firefox browsers are needed to run the tests.
 
-In IDE - Run it as a TestNg suite using testng.xml file. You can also run as a maven build tool using pom.xml file.
+In IDE - Run it as a TestNg suite using testng.xml file. 
+
 In Commandline as maven project- The testng.xml file is already configured in the pom.xml to execute tests automatically. 
 
 I have created two tests which are independent of each other. There is a bit of slight performance issue with the website.
