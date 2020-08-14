@@ -24,6 +24,7 @@ com.endclothing.automation.pages - Page Object Model java classes
 
 Under the src/test/java
 com.endclothing.automation.test - Contains test classes. 
+
 com.endclothing.automation.reports - Contains ExtentManager.java. This along with ExtentListener.java listener class generates ExtentReports.
 
 src/main/resources - contains log4j2.properties file. This configures Log4j to generate the logs.
