@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-14T01:36:37 BST" name="End Clothing Test Suite" finished-at="2020-08-14T01:37:23 BST" duration-ms="45457">
+    <groups>
+    </groups>
+    <test started-at="2020-08-14T01:36:37 BST" name="End Clothing UI Tests" finished-at="2020-08-14T01:37:23 BST" duration-ms="45457">
+      <class name="com.endclothing.automation.tests.ClothingPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.endclothing.automation.tests.ClothingPageTest@51e8e6e6]" started-at="2020-08-14T01:36:37 BST" name="setup" finished-at="2020-08-14T01:36:40 BST" duration-ms="3126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyShirtsFilterAndProductCountTest()[pri:0, instance:com.endclothing.automation.tests.ClothingPageTest@51e8e6e6]" started-at="2020-08-14T01:36:40 BST" name="verifyShirtsFilterAndProductCountTest" description="Verifies Black colour filter and Products count" finished-at="2020-08-14T01:36:49 BST" duration-ms="8237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShirtsFilterAndProductCountTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.endclothing.automation.tests.ClothingPageTest@51e8e6e6]" started-at="2020-08-14T01:36:49 BST" name="teardown" finished-at="2020-08-14T01:36:49 BST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.endclothing.automation.tests.ClothingPageTest -->
+      <class name="com.endclothing.automation.tests.SearchProductsPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.endclothing.automation.tests.SearchProductsPageTest@56f6d40b]" started-at="2020-08-14T01:36:49 BST" name="setup" finished-at="2020-08-14T01:36:52 BST" duration-ms="2742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTwoShirtsAddedToCartAndCartTotal()[pri:0, instance:com.endclothing.automation.tests.SearchProductsPageTest@56f6d40b]" started-at="2020-08-14T01:36:52 BST" name="verifyTwoShirtsAddedToCartAndCartTotal" description="Verifies Products Count and Cart Total" finished-at="2020-08-14T01:37:23 BST" duration-ms="30896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTwoShirtsAddedToCartAndCartTotal -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.endclothing.automation.tests.SearchProductsPageTest@56f6d40b]" started-at="2020-08-14T01:37:23 BST" name="teardown" finished-at="2020-08-14T01:37:23 BST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.endclothing.automation.tests.SearchProductsPageTest -->
+    </test> <!-- End Clothing UI Tests -->
+  </suite> <!-- End Clothing Test Suite -->
+</testng-results>
