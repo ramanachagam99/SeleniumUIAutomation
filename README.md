@@ -2,7 +2,9 @@
 
 This Selenium UI Automation project is based on Java and Selenium using open sourc libraries. TestNg is used as unit testing framework.
 You can run the project either in Eclipse or any other IDE or run it as a maven commandline project.
-JRE System Library[JavaSE-9] used in this project. pom.xml is configured with required dependencies. Chrome or firefox browsers are needed to run the tests.
+JRE System Library[JavaSE-9] used in this project. 
+
+pom.xml is configured with required dependencies. Chrome or firefox browsers are needed to run the tests.
 
 In IDE - Run it as a TestNg suite using testng.xml file. 
 
