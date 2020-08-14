@@ -10,8 +10,7 @@ In IDE - Run it as a TestNg suite using testng.xml file.
 
 In Commandline as maven project- The testng.xml file is already configured in the pom.xml to execute tests automatically. 
 
-I have created two tests which are independent of each other. There is a bit of slight performance issue with the website.
-As a result, I have to increase the wait timesto solve synchronisation issues. Please increase wait times if there is any issue running the tests.
+I have created two tests which are independent of each other.Please increase wait times if there is any issue running the tests.
 
 The folder Structure- 
 
