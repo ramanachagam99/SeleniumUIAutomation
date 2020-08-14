@@ -10,7 +10,6 @@
 	<dependencies>
 
 
-
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
@@ -66,7 +65,7 @@
 
 	<build>
 		<plugins>
-		
+
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
@@ -88,7 +87,7 @@
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
-			
+
 		</plugins>
 	</build>
 

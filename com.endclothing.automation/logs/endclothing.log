@@ -1,31 +1,21 @@
 
-[INFO ] 2020-08-14 02:41:01.501 [main] BrowserBase - Browser Launched: chrome
-[INFO ] 2020-08-14 02:41:03.503 [main] BrowserBase - Navigated to base URL:  https://www-dev.endclothing.com/us		
-[INFO ] 2020-08-14 02:41:03.527 [main] ClothingPage - Clothing PageFactory initialized
-[INFO ] 2020-08-14 02:41:03.902 [main] ClothingPageTest - Mouse Moved to Clothing
-[INFO ] 2020-08-14 02:41:06.959 [main] ClothingPageTest - Clicked on Shirts sub category
-[INFO ] 2020-08-14 02:41:09.617 [main] ClothingPageTest - Clicked on Black Colour Checkbox
-[INFO ] 2020-08-14 02:41:11.814 [main] ClothingPageTest - Total Black  Products Count is :127
-[INFO ] 2020-08-14 02:41:11.842 [main] ExtentListener - TEST CASE VERIFYSHIRTSFILTERANDPRODUCTCOUNTTEST PASSED
-[INFO ] 2020-08-14 02:41:12.906 [main] BrowserBase - 
-
-[INFO ] 2020-08-14 02:41:12.906 [main] BrowserBase - Browser Launched: chrome
-[INFO ] 2020-08-14 02:41:14.793 [main] BrowserBase - Navigated to base URL:  https://www-dev.endclothing.com/us		
-[INFO ] 2020-08-14 02:41:14.801 [main] SearchProductsPage - SearchProductsPage PageFactory initialized
-[INFO ] 2020-08-14 02:41:15.098 [main] SearchProductsPageTest - Clicked on Search Button Input
-[INFO ] 2020-08-14 02:41:15.467 [main] SearchProductsPageTest - Typed 'Shirts' in the Search Input
-[INFO ] 2020-08-14 02:41:17.529 [main] SearchProductsPageTest - Product Price is : $119
-[INFO ] 2020-08-14 02:41:19.222 [main] SearchProductsPageTest - Clicked on First Product in the Product results
-[INFO ] 2020-08-14 02:41:19.422 [main] SearchProductsPageTest - Clicked on First Product Size Button1
-[INFO ] 2020-08-14 02:41:24.522 [main] SearchProductsPageTest - Clicked on AddToCartButton First time
-[INFO ] 2020-08-14 02:41:33.134 [main] SearchProductsPageTest - Clicked on OverLayScreen
-[INFO ] 2020-08-14 02:41:38.221 [main] SearchProductsPageTest - Clicked on First Product Size Button2
-[INFO ] 2020-08-14 02:41:38.308 [main] SearchProductsPageTest - Clicked on AddToCartButton Second time
-[INFO ] 2020-08-14 02:41:43.353 [main] SearchProductsPageTest - Shopping Cart Sub Total is $: $238.00
-[INFO ] 2020-08-14 02:41:43.576 [main] SearchProductsPageTest - Clicked on OvarLayScreen
-[INFO ] 2020-08-14 02:41:43.622 [main] SearchProductsPageTest - Number of products in the Cart  :  2
-[INFO ] 2020-08-14 02:41:43.627 [main] SearchProductsPageTest - Expected Sub total : $238.0
-[INFO ] 2020-08-14 02:41:43.627 [main] SearchProductsPageTest - Actual Sub total : $238.0
-[INFO ] 2020-08-14 02:41:43.628 [main] SearchProductsPageTest - Expected Cart total : $249.95
-[INFO ] 2020-08-14 02:41:43.628 [main] SearchProductsPageTest - Actual Cart total : $249.95
-[INFO ] 2020-08-14 02:41:43.628 [main] ExtentListener - TEST CASE VERIFYTWOSHIRTSADDEDTOCARTANDCARTTOTAL PASSED
+[INFO ] 2020-08-14 05:04:56.810 [main] BrowserBase - Browser Launched: chrome
+[INFO ] 2020-08-14 05:04:59.923 [main] BrowserBase - Navigated to base URL:  https://www-dev.endclothing.com/us		
+[INFO ] 2020-08-14 05:04:59.927 [main] SearchProductsPage - SearchProductsPage PageFactory initialized
+[INFO ] 2020-08-14 05:05:00.428 [main] SearchProductsPageTest - Clicked on Search Button Input
+[INFO ] 2020-08-14 05:05:01.185 [main] SearchProductsPageTest - Typed 'Shirts' in the Search Input
+[INFO ] 2020-08-14 05:05:03.904 [main] SearchProductsPageTest - Product Price is : $119
+[INFO ] 2020-08-14 05:05:04.970 [main] SearchProductsPageTest - Clicked on First Product in the Product results
+[INFO ] 2020-08-14 05:05:06.610 [main] SearchProductsPageTest - Clicked on First Product Size Button1
+[INFO ] 2020-08-14 05:05:11.769 [main] SearchProductsPageTest - Clicked on AddToCartButton First time
+[INFO ] 2020-08-14 05:05:19.352 [main] SearchProductsPageTest - Clicked on OverLayScreen
+[INFO ] 2020-08-14 05:05:24.458 [main] SearchProductsPageTest - Clicked on First Product Size Button2
+[INFO ] 2020-08-14 05:05:24.563 [main] SearchProductsPageTest - Clicked on AddToCartButton Second time
+[INFO ] 2020-08-14 05:05:29.616 [main] SearchProductsPageTest - Shopping Cart Sub Total is $: $238.00
+[INFO ] 2020-08-14 05:05:29.916 [main] SearchProductsPageTest - Clicked on OvarLayScreen
+[INFO ] 2020-08-14 05:05:29.988 [main] SearchProductsPageTest - Number of products in the Cart  :  2
+[INFO ] 2020-08-14 05:05:29.996 [main] SearchProductsPageTest - Expected Sub total : $238.0
+[INFO ] 2020-08-14 05:05:29.996 [main] SearchProductsPageTest - Actual Sub total : $238.0
+[INFO ] 2020-08-14 05:05:29.997 [main] SearchProductsPageTest - Expected Cart total : $249.95
+[INFO ] 2020-08-14 05:05:29.997 [main] SearchProductsPageTest - Actual Cart total : $249.95
+[INFO ] 2020-08-14 05:05:29.998 [main] ExtentListener - TEST CASE VERIFYTWOSHIRTSADDEDTOCARTANDCARTTOTAL PASSED
